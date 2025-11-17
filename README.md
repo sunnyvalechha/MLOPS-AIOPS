@@ -25,6 +25,17 @@ Topics:
 -- LLM's - Llama is a family of large language models released by Meta AI starting in February 2023. Llama models come in different sizes, ranging from 1 billion to 2 trillion parameters.
 * The Llama 4 Models are a collection of pretrained and instruction-tuned mixture-of-experts LLMs offered in two sizes: Llama 4 Scout & Llama 4 Maverick.
 * These models are optimized for multimodal understanding, multilingual tasks, coding, tool-calling, and powering agentic systems. The models have a knowledge cutoff of August 2024.
-* Llama407B (latest) has a capacity of 407 billions lines of code.
+* Llama407B (latest) has a capacity of 407 billions parameters.
 * Behind these models there are super computers who have a capacity of parallel computing with 1000's of GPU's and TPU's.
-* 
+
+# Prompt Engineering
+
+* Prompt engineering is a medium to communicate with LLM's with "prompts,".
+
+# AI Landscape:
+
+1. AI chatbots - chatgpt, claude, deepseek
+2. AI Agents - Github copilot workspace, bolt.new
+3. AI Assitants - Github copilot workspace, "Pieces" for Developers, cursor.ai
+4. Python programming language - fastAPI, flask, django
+5. 
