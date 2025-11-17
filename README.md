@@ -3,7 +3,6 @@
 
 * AIOPS - Artificial Intelligence for IT operations.
 * AIops is an extension to observability
-* 
 ======================Topics:===============================
 1. Gen AI
 2. Tradional
@@ -28,7 +27,12 @@
 
 # Prompt Engineering
 
-* Prompt engineering is a medium to communicate with LLM's with "prompts,".
+* Prompt engineering is a medium to communicate with LLM's. The input is provided by the user to get the desired output is called "prompts".
+* It also helps us in cost optimization of an organization.
+* Zero short prompting - Zero-shot prompting is a method of asking a large language model (LLM) to complete a task using only the prompt's instructions, without providing any specific examples of the desired output
+* Few short prompting - Few-shot prompting is a technique where you provide a large language model with a small number of examples in the prompt itself to guide its response for a specific task
+* Multi short prompting - Multi-shot prompting is a technique where you provide a language model with multiple examples of input-output pairs to guide its response to a new query
+* Chain of thoughts prompting - Chain of thought (CoT) prompting is a technique that guides a large language model (LLM) to solve a complex problem by breaking it down into intermediate reasoning steps
 
 # AI Landscape:
 
