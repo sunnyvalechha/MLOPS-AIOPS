@@ -4,9 +4,7 @@
 * AIOPS - Artificial Intelligence for IT operations.
 * AIops is an extension to observability
 * 
-=====================================================
-Topics:
-
+======================Topics:===============================
 1. Gen AI
 2. Tradional
 3. Use cases
@@ -38,4 +36,3 @@ Topics:
 2. AI Agents - Github copilot workspace, bolt.new
 3. AI Assitants - Github copilot workspace, "Pieces" for Developers, cursor.ai
 4. Python programming language - fastAPI, flask, django
-5. 
